@@ -41,4 +41,6 @@ docker-compose up --build
 
 ## Author
 [Riya Jain]
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/42c74275-7f94-49d6-ba9d-8537b22cd205" />
+
 ---
